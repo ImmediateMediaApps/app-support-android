@@ -2,7 +2,7 @@
 layout: post
 title: I bought a subscription but the app is asking me to pay for my issue(s)
 popular: false
-categories: [subscriptions]
+tags: [subscriptions]
 popular: true
 platform: android
 ---

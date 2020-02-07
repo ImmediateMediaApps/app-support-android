@@ -2,7 +2,7 @@
 layout: post
 title: How do I archive or delete an issue from my device?
 popular: false
-categories: [other]
+tags: [other]
 platform" android
 ---
 To remove an issue from your device follow these steps:

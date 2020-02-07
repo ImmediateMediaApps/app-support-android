@@ -2,7 +2,7 @@
 layout: post
 title: Where have all my purchased issues gone?
 popular: false
-categories: [subscriptions, singleissues, promotions]
+tags: [subscriptions, singleissues, promotions]
 platform: androids
 ---
 Any previous purchases you have made will be tied your Google Account. You can restore your previous purchases at any time.

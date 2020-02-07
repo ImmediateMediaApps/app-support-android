@@ -2,7 +2,7 @@
 layout: post
 title: I bought a single issue but the app is asking me to pay for it
 popular: false
-categories: [singleissues]
+tags: [singleissues]
 popular: false
 platform: android
 ---

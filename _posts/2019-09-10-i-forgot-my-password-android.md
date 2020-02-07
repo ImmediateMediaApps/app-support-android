@@ -2,7 +2,7 @@
 layout: post
 title: I forgot my password
 popular: false
-categories: [subscriptions, singleissues, other]
+tags: [subscriptions, singleissues, other]
 popular: true
 platform: android
 ---
