@@ -3,7 +3,7 @@ layout: post
 title: How can I claim a refund if I'm not happy with something I've purchased?
 popular: false
 tags: [subscriptions, singleissues, promotions]
-platform android
+platform: android
 ---
 If you are not satisfied with the app or with content in the app, please contact support and we will do our best to resolve the problems.
 
